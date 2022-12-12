@@ -1,0 +1,278 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+	
+}
+.container{
+	width:1060px;
+	margin:0 auto;
+	
+}
+.body{
+	font-family: 'Roboto', sans-serif;
+}
+.logo{
+	color:#000000;
+	font-size:30px;
+	font-weight:400;
+	text-transform:uppercase;
+	text-decoration:none;
+
+	
+}
+.navbar{
+	list-style:none;
+
+}
+/*.navbar li{         when this css apply then navbar do not work right side move.
+	float:left;
+	
+}*/
+.navbar li:last-child{
+	margin-right:0;
+}
+.navbar li:last-child a{
+	padding-right:0;
+}
+.navbar li{
+	display:inline-block;
+	margin:0 12.5px;
+}
+.navbar li a{
+	display:inline-block;
+	color:#626262;
+	font-size:14px;
+	font-weight:400;
+	text-transform:uppercase;
+	font-family: "Playfair Display";
+	padding:10px;
+}
+.row > :first-child{
+	padding-left:0;
+	
+}
+.row > :last-child{
+	padding-right:0;
+	
+}
+.alignright{
+  text-align:right;
+	}
+
+
+
+a:link,
+a:hover,
+a:focus,
+a:active,
+a:link,
+a:visited{
+text-decoration:none;
+
+}
+
+.logo{
+	font-size: 30px;
+   letter-spacing: 6px;
+   line-height: 24px;
+   text-transform: uppercase;
+   color: #000000;
+   font-weight: 400;
+   font-family: "Inconsolata";
+   text-align: center;
+}
+
+.photo{
+        font-size: 14px;
+        text-transform: uppercase;
+       color: #b4ad9e;
+       font-weight: 300;
+        font-family: "Ubuntu";
+}
+
+
+.font300{
+	font-size:14px;
+	   text-transform: uppercase;
+      color: #b4ad9e;
+      font-weight: 300;
+      font-family: "Ubuntu";
+}
+.font400{
+	font-size: 30px;
+   color: #626262;
+   font-weight: 400;
+   font-family: "Playfair Display";
+}
+
+
+.info{
+	font-size: 14px;
+   line-height: 24px;
+   color: #626262;
+   font-weight: 400;
+   font-family: "Playfair Display";
+}
+
+.liht24{
+	font-size: 14px;
+   line-height: 24px;
+   color: #626262;
+   font-weight: 400;
+    font-family: "Playfair Display";
+}
+.signup{
+	padding-top:75px;
+	padding-right:342.5px;
+	padding-left:342.5px;
+	background-color:#f0f0f0;
+}
+.padmar{
+	
+}
+.signuphere input{
+	width:100%;
+	border:0px;
+	border-bottom:1px solid black;
+	outline:none;
+	background-color:transparent;
+	
+}
+.sign{
+	padding:75px 342.5px;
+	background-color:#f0f0f0;
+}
+
+.row .sign .col-12{
+	padding-top:65px;
+}
+.aligncenter{
+	text-align:center;
+	font-size: 30px;
+   letter-spacing: 1px;
+   color: #333333;
+   font-weight: 400;
+   font-family: "Playfair Display";
+   text-align: center;
+}
+.input{
+	padding:85px 250px 75px 250px;
+	}
+	
+.load{
+	padding-top:85px;
+	
+	text-align:center;
+}
+.btn{
+    width:165px;
+	height:60px;
+	font-size: 20px;
+   line-height: 24px;
+   color: #626262;
+   font-weight: 400;
+   font-family: "Playfair Display";
+
+}
+.bcg{
+		background-color:#f0f0f0;
+		margin-top:70px;
+}
+
+
+.mb65{
+	margin-bottom:65px;
+}
+
+footer{
+	margin-top:40px 0;
+	background-color:;
+	
+}
+
+.footerlinks,.footerlinks li{
+	list-style:none;
+	display:inline-block;
+	
+	
+}
+.text-alignright{
+	text-align:right;
+}
+.footerlinks li{
+	color:#000000;
+	margin-right:15px;
+	
+	
+	
+}
+.footerlinks li a{
+	color:black;
+	font-size:18px;
+	padding:4.5px;
+	line-height:24px;
+	font-family:"Playfair display";
+	
+}
+
+.footerlinks li a i{
+	color:#616161;
+	font-size:22px;
+}
+.footerlinks2{
+	padding:5px;
+	margin:5px;
+}
+.hello{
+	background-color:black;
+}
+
+.bottom{
+	
+	background-color:#f0f0f0;
+}
+.ml15{
+	margin-left:325px;
+	font-weight:400;
+}
+.topbottom{
+	padding-top:40px;
+	padding-bottom:45px;
+}
+/*.thirdsec{
+	margin-top:110px;
+	
+	
+}
+.secondimg,.thirdimg{
+	height:280px;
+	width:420px;
+}
+.secondimg{
+	
+	padding-bottom:15px;
+	margin-bottom:15px;
+	margin-right:15px;
+	padding-right:15px;
+}
+.thirdimg{
+	
+	padding-bottom:15px;
+	margin-bottom:15px;
+	padding-left:15px;
+	margin-left:15px;
+}
+.thirdsec,h1{
+	color:#b4ad9e;
+	font-size:14px;
+	font-weight:300;
+}
+.leftside{
+		
+	
+}
+.rightside{
+	
+	
+}*/
